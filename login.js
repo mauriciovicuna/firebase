@@ -1,7 +1,7 @@
 (function () {
   // Your web app's Firebase configuration
   // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-  const firebaseConfig = {
+  var firebaseConfig = {
     apiKey: "AIzaSyB4n4tK3566-k70TAWfW0hPWfdeTQVgB8M",
     authDomain: "courso-7ed85.firebaseapp.com",
     databaseURL: "https://courso-7ed85-default-rtdb.firebaseio.com",
@@ -32,15 +32,14 @@
         .auth()
         .signInWithPopup(provider)
         .then(function (result) {
-        
-          loggedInStatus.innerText = `You ${user.profile} logged in using the following email: ${user.email}`;
+          loggedInStatus.innerText = `You ${result.user.displayName} logged in using the following email: ${result.user.email}`;
           login.style.display = "none";
           signup.style.display = "none";
           email.style.display = "none";
           password.style.display = "none";
           googlelogin.style.display = "none";
           logout.style.display = "none";
-        
+
         })
         .catch((error) => {
           var errorCode = error.code;

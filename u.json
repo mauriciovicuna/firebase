@@ -1,0 +1,59 @@
+{
+    "user": {
+        "uid": "eJfLUV6SXoWWXATLYWGQJXqUrii1",
+        "displayName": "Alexander Polo",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKNpjHZtvHPzxG6An2uvdRo9H1L16XwpP4TPtmnPYQnPeSM7hdurA=s96-c",
+        "email": "mauricio30042003@gmail.com",
+        "emailVerified": true,
+        "phoneNumber": null,
+        "isAnonymous": false,
+        "tenantId": null,
+        "providerData": [
+            {
+                "uid": "103473627000511833050",
+                "displayName": "Alexander Polo",
+                "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKNpjHZtvHPzxG6An2uvdRo9H1L16XwpP4TPtmnPYQnPeSM7hdurA=s96-c",
+                "email": "mauricio30042003@gmail.com",
+                "phoneNumber": null,
+                "providerId": "google.com"
+            }
+        ],
+        "apiKey": "AIzaSyB4n4tK3566-k70TAWfW0hPWfdeTQVgB8M",
+        "appName": "[DEFAULT]",
+        "authDomain": "courso-7ed85.firebaseapp.com",
+        "stsTokenManager": {
+            "apiKey": "AIzaSyB4n4tK3566-k70TAWfW0hPWfdeTQVgB8M",
+            "refreshToken": "AMf-vBz55VawqKKyPLC9ItcZx4EJPOIbmc1Tv8LLDKoUlfPozPLkcD_ekFc4mSbZNEobrQzgU-yl7CUwb6sES6BQIoYkiU6CLC9BFgfIE0OSQdUbX9nnws6ocIYrm_vWZLgWCvKeVXYe12CyRR71OMAxe-T1bo4V7qNfoyJqf3JF1cxwPxM70ZAnJ6fv6Jls5mP86hd3_IjIqsQ07OwRTt5b1ogXh4_TErkgS8Dm4_91JNQejCge9l7WPkXMnsaESKnhgf4jIX2yGwMbn7uvO_lDiu5sXtDcnlSMI7TKCnElsJlzRAsULeWSwZP26q6CB4gWJUqBTuHX2JIAX-XQXUbLSELbPwXrnDAdNv3aIRCywF9Ol4NPoeFXWtUhgiWndHTumzy4W309FT56hhjebL6ABDNN4V3VJyk8ATRcNmnNqqsWTGAuu12prGUG8fl2Xlh4ESpqdzgf",
+            "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImYyOThjZDA3NTlkOGNmN2JjZTZhZWNhODExNmU4ZjYzMDlhNDQwMjAiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiQWxleGFuZGVyIFBvbG8iLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS05wakhadHZIUHp4RzZBbjJ1dmRSbzlIMUwxNlh3cFA0VFB0bW5QWVFuUGVTTTdoZHVyQT1zOTYtYyIsImlzcyI6Imh0dHBzOi8vc2VjdXJldG9rZW4uZ29vZ2xlLmNvbS9jb3Vyc28tN2VkODUiLCJhdWQiOiJjb3Vyc28tN2VkODUiLCJhdXRoX3RpbWUiOjE3MTI4OTcwMDgsInVzZXJfaWQiOiJlSmZMVVY2U1hvV1dYQVRMWVdHUUpYcVVyaWkxIiwic3ViIjoiZUpmTFVWNlNYb1dXWEFUTFlXR1FKWHFVcmlpMSIsImlhdCI6MTcxMjg5NzAwOCwiZXhwIjoxNzEyOTAwNjA4LCJlbWFpbCI6Im1hdXJpY2lvMzAwNDIwMDNAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZ29vZ2xlLmNvbSI6WyIxMDM0NzM2MjcwMDA1MTE4MzMwNTAiXSwiZW1haWwiOlsibWF1cmljaW8zMDA0MjAwM0BnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJnb29nbGUuY29tIn19.QYkWu6Cy1kDUGPIyi-jsFmrdJXTH9lm-zHF8tggW0865Agc2WEvSCXJyaNmVf-0ASgHvXHKPHZpGXlSIe_0Grizl5dn4bFkkmKZdL35Rlc00XhTBp3Ygg4uEhawd-PjwueAccawC26NkyNFMto20kjmFrF7ZDuwmj-yOKf7bQU6VLbhbvnuIACe_GzMA1ur0_cOua_Yo3qyUwFTxDoCrgP-p9mLPSgMSwxXhwo8M2mm8SZeWh6WZdG7Rpnb858bbD7bZg0Ej-LlalwiiNthcZRVnlEVaYoi4bHFPDE9FQtEecg0YhI8HXsfB2T4YD0GhovKAtNl5zTXckjBExFsiFQ",
+            "expirationTime": 1712900608000
+        },
+        "redirectEventId": null,
+        "lastLoginAt": "1712897008975",
+        "createdAt": "1712896180975",
+        "multiFactor": {
+            "enrolledFactors": []
+        }
+    },
+    "credential": {
+        "providerId": "google.com",
+        "signInMethod": "google.com",
+        "oauthIdToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjkzYjQ5NTE2MmFmMGM4N2NjN2E1MTY4NjI5NDA5NzA0MGRhZjNiNDMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNjEwOTg4MDA0MTUtaTI5MHE0ODVycjVnYmR1NTJ0b3BtYTk1ZTVrc2o0YjQuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI2MTA5ODgwMDQxNS1pMjkwcTQ4NXJyNWdiZHU1MnRvcG1hOTVlNWtzajRiNC5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjEwMzQ3MzYyNzAwMDUxMTgzMzA1MCIsImVtYWlsIjoibWF1cmljaW8zMDA0MjAwM0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6InN2V2txWUc4d2VMc0N3ODQ2a2ZQZ3ciLCJpYXQiOjE3MTI4OTcwMDgsImV4cCI6MTcxMjkwMDYwOH0.ulwoVKFQ3ViPBBuLmT_YFRIP7vMSzKG6m_CwZ21HkQ-cRKuwmlgEdJv3zfrrdK2MawFDQvfWTS6oOSReLMVVUS35SNIEl4S87hnXKLndrupCjSLkJXnM6mg3Ftcz8OXYRylPqSjYfZWPh13sNL4n7os_IqYQ5HQRDuWHMKN3GOca1_dFic7Pfhet8JRDDdM1iw4LljjCuwPSxPTZ9KMrJ1XDjh2y1iaamTZcHYhsbe4_Xe-jyo8gkWD43AOPwDIqC_WPD05C3o2gtYFutjoDxHEtLLkT6Ak3Ha4Lpa43jTc-oiab3js7zg-hNFZJe0_OmeGtUGjvdpagtVb8oNKUZg",
+        "oauthAccessToken": "ya29.a0Ad52N3-KL8Rmb9lrw3nBWE2-HLqJZxxYin2DIMtOXlLwHPfLAeTfO2rWs8mvbsL8Yh6sWh2KK5OLFnRSp8v_mrmEEKw-XQL0n-WV4kqvYP--inhc01157HNM40f1BKBE0PcAmM334Jk9JNJAd1BlI7Qcuf27Xw4DaAaCgYKAZcSARESFQHGX2MisymFBkbGtCynGnHn6tn-Kw0169"
+    },
+    "additionalUserInfo": {
+        "providerId": "google.com",
+        "isNewUser": false,
+        "profile": {
+            "name": "Alexander Polo",
+            "granted_scopes": "openid https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email",
+            "id": "103473627000511833050",
+            "verified_email": true,
+            "given_name": "Alexander",
+            "locale": "es",
+            "family_name": "Polo",
+            "email": "mauricio30042003@gmail.com",
+            "picture": "https://lh3.googleusercontent.com/a/ACg8ocKNpjHZtvHPzxG6An2uvdRo9H1L16XwpP4TPtmnPYQnPeSM7hdurA=s96-c"
+        }
+    },
+    "operationType": "signIn"
+}
