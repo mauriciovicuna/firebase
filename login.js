@@ -1,4 +1,3 @@
-
 (function () {
   // Your web app's Firebase configuration
   // For Firebase JS SDK v7.20.0 and later, measurementId is optional
@@ -29,14 +28,11 @@
 
     // TODO: Use firebase.auth.GoogleAuthProvider() to implement Google sign in
       var provider = new firebase.auth.GoogleAuthProvider();
-      firebase.auth()
+      firebase
+        .auth()
         .signInWithPopup(provider)
-        .then((result) => {
-          /** @type {firebase.auth.OAuthCredential} */
-          var credential = result.credential;
-          // This gives you a Google Access Token. You can use it to access the Google API.
-          var token = credential.accessToken;
-          var user = result.user;
+        .then(function (result) {
+        
           loggedInStatus.innerText = `You ${user.profile} logged in using the following email: ${user.email}`;
           login.style.display = "none";
           signup.style.display = "none";
@@ -44,15 +40,11 @@
           password.style.display = "none";
           googlelogin.style.display = "none";
           logout.style.display = "none";
-        })
         
+        })
         .catch((error) => {
           var errorCode = error.code;
-          var errorMessage = error.message;
-          var email = error.email;
-          var credential = error.credential;
-
-          console.log("errors: "+ errorCode + errorMessage + email + credential);
+          console.log("errors: "+ errorCode);
         });
     // Hint: the user email address is in the results user object: result.user.email
   });
